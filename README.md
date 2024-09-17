@@ -18,7 +18,7 @@ git clone https://github.com/Shivanandroy/ResearchAgent.git
 ```
 2. Install the required dependencies using pip:
 ```python
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 3. Add your OPENAI_API_KEY to the .env file:
